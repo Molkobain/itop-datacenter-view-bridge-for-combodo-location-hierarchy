@@ -32,6 +32,19 @@
 				</list>
 			</presentation>
 		</class>
+    <class id="LocationType">
+      <fields>
+        <field id="locations_list"  _delta="delete_if_exists" />
+      </fields>
+      <presentation>
+        <details>
+          <items>
+            <item id="locations_list" _delta="delete_if_exists">
+            </item>
+          </items>
+        </details>
+      </presentation>
+    </class>
 	</classes>
 	<!--
 	<user_rights>
