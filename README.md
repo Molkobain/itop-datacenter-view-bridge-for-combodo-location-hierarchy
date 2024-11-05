@@ -11,5 +11,7 @@ I would like to give a special thank you to the people who contributed to this
 
 ### Names
 
+* Cognet, Anne-Catherine (a.k.a [@accognet](https://github.com/accognet))
 * Delay, Dimitri
 * Noblot, Nicolas
+
